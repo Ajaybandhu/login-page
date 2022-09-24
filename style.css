@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+    text-align-last: center;
+    background-image: url(https://images.pexels.com/photos/1955134/pexels-photo-1955134.jpeg?auto=compress&cs=tinysrgb&w=600);
+}
+
+
+
+
+label{
+    color: white;
+    align-content:center;
+    margin-right: auto;
+    
+}
